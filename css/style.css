@@ -1,0 +1,52 @@
+li{
+    display: inline;
+    margin-right: 100px;
+}
+.poloska1{
+    position: absolute;
+width: 1440px;
+height: 0px;
+left: 0px;
+top: 26px;
+
+border: 1px solid #AE7C78;
+}
+.poloska2{
+    position: absolute;
+width: 1440px;
+height: 0px;
+left: 0px;
+top: 90px;
+
+border: 1px solid #AE7C78;
+}
+
+.logo{
+    position: absolute;
+width: 100px;
+height: 32.28px;
+left: 670px;
+top: 42px;
+}
+h1{ 
+width: 384px;
+height: 118px;
+left: 120px;
+top: 171px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 44px;
+line-height: 59px;
+
+color: #AE7C78;}
+span{
+    font-family: Playfair Display;
+font-style: italic;
+font-weight: normal;
+font-size: 44px;
+line-height: 59px;
+
+color: #AE7C78;}
+}
